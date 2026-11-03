@@ -1,3 +1,10 @@
+<!-- scope -->
+> [!WARNING]
+> **Recherche en sÃ©curitÃ© â€” code archivÃ©, non maintenu.**
+>
+> Ce dÃ©pÃ´t explore les techniques utilisÃ©es par les cheats (aimbot, ESP, radar) sur un jeu **hors ligne** (`-insecure`), Ã  des fins pÃ©dagogiques. Ne l'utilise pas en ligne : c'est contraire aux CGU de Valve et Ã§a entraÃ®ne un ban.
+>
+> Aucun contournement d'anti-cheat, aucun support, aucune garantie. Le code est figÃ© et laissÃ© tel quel pour archivage.
 # Reaper CS2 Cheat - Offline Insecure (Educational Purpose Only) 🎮🔍
 
 ## Description 📝

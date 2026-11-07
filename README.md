@@ -1,10 +1,10 @@
 <!-- scope -->
 > [!WARNING]
-> **Recherche en sécurité — code archivé, non maintenu.**
+> **Security research — archived, unmaintained code.**
 >
-> Ce dépôt explore les techniques utilisées par les cheats (aimbot, ESP, radar) sur un jeu **hors ligne** (`-insecure`), à des fins pédagogiques. Ne l'utilise pas en ligne : c'est contraire aux CGU de Valve et ça entraîne un ban.
+> This repository explores the techniques used by cheats (aimbot, ESP, radar) on an **offline** game (`-insecure`), for educational purposes. Do not use it online: it violates Valve's Terms of Service and will get you banned.
 >
-> Aucun contournement d'anti-cheat, aucun support, aucune garantie. Code figé, laissé tel quel pour archivage.
+> No anti-cheat bypass, no support, no warranty. Code frozen, left as is for archival purposes.
 
 # Reaper CS2 Cheat - Offline Insecure (Educational Purpose Only) 🎮🔍
 
